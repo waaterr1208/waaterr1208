@@ -5,6 +5,12 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Park Seonha </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 예상치 못한 문제 앞에서도 쉽게 무너지지 않고, 끝까지 답을 찾는 보안 전문가가 되겠습니다. </div> 
     </div>
+    <div>
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats</h2>
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubwaaterr1208)](https://github.com/anuraghazra/github-readme-stats)
+        </div>
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center">
